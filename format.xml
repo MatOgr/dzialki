@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<format>
+    <aaa namespace="{http://repository.gdi-de.org/schemas/adv/produkt/alkis-vereinfacht/2.0}">
+        <flstkennz>Nr dzialki</flstkennz>
+        <flaeche>Rozm. dzialki</flaeche>
+        <landschl>Nr landu</landschl>
+        <kreisschl>Nr okregu</kreisschl>
+        <gmdschl>Nr powiatu</gmdschl>
+        <gemaschl>Nr gemarkung</gemaschl>
+    </aaa>
+    <nas namespace="{http://www.adv-online.de/namespaces/adv/gid/6.0}">
+        <flurstueckskennzeichen>Nr dzialki</flurstueckskennzeichen>
+        <amtlicheFlaeche>Rozm. dzialki</amtlicheFlaeche>
+        <land>Nr landu</land>
+        <kreis>Nr okregu</kreis>
+        <gemeinde>Nr powiatu</gemeinde>
+        <gemarkungsnummer>Nr gemarkung</gemarkungsnummer>
+    </nas>
+</format>
