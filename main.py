@@ -8,7 +8,7 @@ def retrieve_info(path_n_format):
 
     path, file_format = path_n_format
     print(f"\nFILE: {path.split('/')[-1]}\nFORMAT:{file_format}")
-    labels_tree = ET.parse("format.xml")
+    labels_tree = ET.parse("./format.xml")
     labels = labels_tree.find(file_format)
     if labels is None:
         print(f"No labels for format '{file_format}' - update the 'format.xml' file with sought labels")
