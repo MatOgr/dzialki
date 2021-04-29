@@ -1,5 +1,6 @@
 # Dzialki
-Simple python program processing xml files. New formats and labels to process can be added to the file `format.xml`, includes `aaa` `nas`, currently 
+Simple python program processing xml files. New formats and labels to process can be added to the file `format.xml`, includes `aaa` `nas`, currently <br/>
+**Files `format.xml` and `main.py` need to be next to each other (or parsing path of `format.xml` has to be changed inside `main.py`)**
 
 ## Modules used:
 + os
